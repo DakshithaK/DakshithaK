@@ -47,7 +47,7 @@ More projects? Dive in 👉 [github.com/DakshithaK](https://github.com/Dakshitha
 
 ---
 
-### 📈 GitHub Stats
+<!--### 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DakshithaK&show_icons=true&theme=radical" alt="Dakshitha's GitHub stats" />
@@ -57,7 +57,7 @@ More projects? Dive in 👉 [github.com/DakshithaK](https://github.com/Dakshitha
   <img src="https://github-readme-streak-stats.herokuapp.com?user=DakshithaK&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
----
+-->
 
 ### 💡 Fun Fact
 
