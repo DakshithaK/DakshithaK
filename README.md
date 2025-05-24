@@ -1,8 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Dakshitha</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Software+Engineer+%F0%9F%92%BB;Backend+Ninja+%E2%9C%A8;Spring+Boot+%7C+Kafka+%7C+React+Explorer;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-![Yoga Pose](https://media.giphy.com/media/26xBPQXthJ9z8UOWY/giphy.gif)
+
 
 
 ### 🧑‍💻 About Me
@@ -45,7 +44,6 @@ More projects? Dive in 👉 [github.com/DakshithaK](https://github.com/Dakshitha
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakshitha-k)  
 📬 dakshithakrishnagowda@gmail.com
-![Yoga Icon](https://media.giphy.com/media/kjZx6xmVA0LKU/giphy.gif)
 
 
 <!--### 📈 GitHub Stats
