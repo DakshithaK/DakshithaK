@@ -64,6 +64,8 @@ More projects? Dive in 👉 [github.com/DakshithaK](https://github.com/Dakshitha
 
 ### 💡 Fun Fact
 
+<p align="center"> <img src="https://media.giphy.com/media/3ohc1c0xnxX1kz3ElC/giphy.gif" width="300px" /> </p>
+
 I once resolved a critical on-call issue in < 2 hours and got a SPOT award 🏆.  
 Sometimes all you need is coffee ☕ + a good stack trace 🧠.
 
