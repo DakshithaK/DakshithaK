@@ -2,7 +2,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Software+Engineer+%F0%9F%92%BB;Backend+Ninja+%E2%9C%A8;Spring+Boot+%7C+Kafka+%7C+React+Explorer;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="250px" alt="coder gif">
+</p>
 ---
 
 ### 🧑‍💻 About Me
