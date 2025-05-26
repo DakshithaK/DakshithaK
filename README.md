@@ -6,7 +6,7 @@
 
 ### 🧑‍💻 About Me
 
-I’m a Software Engineer @ [Maersk]() 🌊, where I work on building scalable backend systems and optimizing data platforms to improve global supply chain visibility.
+I’m a Software Engineer @ [Maersk](https://www.maersk.com/about) 🌊, where I work on building scalable backend systems and optimizing data platforms to improve global supply chain visibility.
 
 Previously at:
 - 🔬 **Indian Institute of Science** — Worked on pose estimation for neuromotor risk assessment in infants.
@@ -14,8 +14,8 @@ Previously at:
 
 When I'm not reducing Kafka lag or fighting code smells 🧹, I’m probably:
 - 💡 Playing around with side projects
-- 📸 Learning photography
-- 🎮 Strategizing in board games
+- 📸 Travelling 
+- 🎮 Binge watching
 
 ---
 
@@ -25,18 +25,6 @@ When I'm not reducing Kafka lag or fighting code smells 🧹, I’m probably:
 - **Frameworks & Tools:** `Spring Boot`, `FastAPI`, `React.js`, `Kafka`, `Kubernetes`
 - **Databases:** `PostgreSQL`, `MySQL`
 - **DevOps & Infra:** `Grafana`, `Git`, `IntelliJ`, `Docker`
-
----
-
-### 🛠️ Projects That I 💙
-
-📦 **E-Shop**  
-A full-stack e-commerce app with Spring Boot, React.js, and AWS deployment. Supports role-based login, pagination, secure REST APIs.
-
-🏗️ **Easy Estimate**  
-A machine learning-based construction cost estimator using FastAPI and Random Forest (MAE < 5%).
-
-More projects? Dive in 👉 [github.com/DakshithaK](https://github.com/DakshithaK)
 
 ---
 
@@ -56,14 +44,16 @@ More projects? Dive in 👉 [github.com/DakshithaK](https://github.com/Dakshitha
   <img src="https://github-readme-streak-stats.herokuapp.com?user=DakshithaK&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
--->
-
 ### 💡 Fun Fact
 
 I once resolved a critical on-call issue in < 2 hours and got a SPOT award 🏆.  
 Sometimes all you need is coffee ☕ + a good stack trace 🧠.
 
+-->
+
+
 ---
 
 _“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
 <p align="center"> <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="100px" /><br/> <em>"Thanks for stopping by! Let's build something awesome together."</em> </p>
+![Calm Breathing](https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif)
