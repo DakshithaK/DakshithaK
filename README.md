@@ -34,7 +34,8 @@ When I'm not reducing Kafka lag or fighting code smells 🧹, I’m probably:
 📬 dakshithakrishnagowda@gmail.com
 
 <p align="center">
-  <img src="https://media.giphy.com/media/2tSodgDfwCjIM/giphy.gif" width="120px" /><br/>
+  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100px" /><br/>
+  <em>"Visualize. Build. Repeat."</em>
 </p>
 
 <!--### 📈 GitHub Stats
