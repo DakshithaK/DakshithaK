@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Dakshitha</h1>
+![image](https://github.com/user-attachments/assets/a9a43c82-9e8b-4470-97a5-8aa7bf844ae8)<h1 align="center">Hey there 👋, I'm Dakshitha</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Software+Engineer+%F0%9F%92%BB;Backend+Ninja+%E2%9C%A8;Spring+Boot+%7C+Kafka+%7C+React+Explorer;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -34,7 +34,8 @@ When I'm not reducing Kafka lag or fighting code smells 🧹, I’m probably:
 📬 dakshithakrishnagowda@gmail.com
 
 <p align="center">
-  <img src="https://www.freepik.com/free-ai-image/cartoon-lifestyle-summertime-scene_94513115.htm#fromView=keyword&page=1&position=30&uuid=5b2f6bf6-cb18-42c1-9370-62dde102bb0a&query=Aesthetic+Animation" width="100px" /><br/>
+  <img src="![image](https://github.com/user-attachments/assets/a028cb07-0653-4dd1-9041-9dd961b52cd0)
+" /><br/>
   <em>"Visualize. Build. Repeat."</em>
 </p>
 
