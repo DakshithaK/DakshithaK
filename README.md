@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a9a43c82-9e8b-4470-97a5-8aa7bf844ae8)<h1 align="center">Hey there 👋, I'm Dakshitha</h1>
+<h1 align="center">Hey there 👋, I'm Dakshitha</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Software+Engineer+%F0%9F%92%BB;Backend+Ninja+%E2%9C%A8;Spring+Boot+%7C+Kafka+%7C+React+Explorer;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
 
@@ -56,9 +56,5 @@ Sometimes all you need is coffee ☕ + a good stack trace 🧠.
 ---
 
 _“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
-<p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="120px" /><br/>
-  <em>"Pause. Breathe. Code with calm."</em>
-</p>
-
+![image](https://github.com/user-attachments/assets/a9a43c82-9e8b-4470-97a5-8aa7bf844ae8)
 
