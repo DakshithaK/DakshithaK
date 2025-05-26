@@ -55,5 +55,9 @@ Sometimes all you need is coffee ☕ + a good stack trace 🧠.
 ---
 
 _“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
-<p align="center"> <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="100px" /><br/> <em>"Thanks for stopping by! Let's build something awesome together."</em> </p>
-![Calm Breathing](https://media.giphy.com/media/l0HlSNOxJB956qwfK/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="120px" /><br/>
+  <em>"Pause. Breathe. Code with calm."</em>
+</p>
+
+
