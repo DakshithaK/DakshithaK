@@ -35,7 +35,7 @@ When I'm not reducing Kafka lag or fighting code smells 🧹, I’m probably:
 
 <p align="center">
   <img src="![image](https://github.com/user-attachments/assets/a028cb07-0653-4dd1-9041-9dd961b52cd0)
-" /><br/>
+" width="120px" /><br/>
   <em>"Visualize. Build. Repeat."</em>
 </p>
 
