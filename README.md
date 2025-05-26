@@ -34,7 +34,7 @@ When I'm not reducing Kafka lag or fighting code smells 🧹, I’m probably:
 📬 dakshithakrishnagowda@gmail.com
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" width="100px" /><br/>
+  <img src="https://www.freepik.com/free-ai-image/cartoon-lifestyle-summertime-scene_94513115.htm#fromView=keyword&page=1&position=30&uuid=5b2f6bf6-cb18-42c1-9370-62dde102bb0a&query=Aesthetic+Animation" width="100px" /><br/>
   <em>"Visualize. Build. Repeat."</em>
 </p>
 
