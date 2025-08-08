@@ -53,8 +53,8 @@ Sometimes all you need is coffee ☕ + a good stack trace 🧠.
 -->
 
 
----
 
-_“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
+<!--###_“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
 ![image](https://github.com/user-attachments/assets/a9a43c82-9e8b-4470-97a5-8aa7bf844ae8)
+-->
 
