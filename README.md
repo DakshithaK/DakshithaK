@@ -23,7 +23,7 @@ When I'm not reducing Kafka lag or fighting code smells 🧹, I’m probably:
 ### 🚀 Tech Stack
 
 - **Languages:** `Java`, `Python`, `JavaScript`, `C`
-- **Frameworks & Tools:** `Spring Boot`, `FastAPI`, `React.js`, `Kafka`, `Kubernetes`
+- **Frameworks & Tools:** `Spring Boot`, `FastAPI`, `React.js`, `Apache Kafka`, `Kubernetes`
 - **Databases:** `PostgreSQL`, `MySQL`
 - **DevOps & Infra:** `Grafana`, `Git`, `IntelliJ`, `Docker`
 
