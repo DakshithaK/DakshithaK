@@ -10,8 +10,7 @@ Software Engineer | B.E @ RVCE
 I’m a Software Engineer @ [Maersk](https://www.maersk.com/about) 🌊, where I work on building scalable backend systems and optimizing data platforms to improve global supply chain visibility.
 
 Previously at:
-- 🔬 **Indian Institute of Science** — Worked on pose estimation for neuromotor risk assessment in infants.
-- 🛫 **Airbus** — Built multi-layered security systems for safeguarding flight data.
+- 🔬 **Indian Institute of Science** — Built multi-layered security systems for safeguarding flight data.
 
 When I'm not reducing Kafka lag or fighting code smells 🧹, I’m probably:
 - 💡 Playing around with side projects
