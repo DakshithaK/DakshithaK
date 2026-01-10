@@ -7,8 +7,7 @@ Software Engineer | B.E @ RVCE
 
 ### 🧑‍💻 About Me
 
-I’m a Software Engineer @ [Maersk](https://www.maersk.com/about) 🌊, where I work on building scalable backend systems and optimizing data platforms to improve global supply chain visibility.
-
+I’m a Software Engineer @ [Maersk](https://www.maersk.com/about) 🌊 based in Bangalore, India, passionate about building scalable systems, optimizing infrastructure, and leveraging AI to solve real-world problems.
 Previously at:
 - 🔬 **Indian Institute of Science** — Built multi-layered security systems for safeguarding flight data.
 
