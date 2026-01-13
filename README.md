@@ -5,7 +5,7 @@
 Software Engineer | B.E @ RVCE
 📍 Bangalore, IN | ✉️ dakshithakrishnagowda@gmail.com |
 
-### 🧑‍💻 About Me
+### About Me
 
 I’m a Software Engineer @ [Maersk](https://www.maersk.com/about) 🌊 and am based in Bangalore, India, passionate about building scalable systems, optimizing infrastructure, and leveraging AI to solve real-world problems.
 Previously at:
