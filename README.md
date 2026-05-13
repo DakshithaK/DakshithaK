@@ -9,6 +9,7 @@
   ✉️ <a href="mailto:dakshithakrishnagowda@gmail.com">dakshithakrishnagowda@gmail.com</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/dakshitha-k">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://github.com/DakshithaK">GitHub</a>
+  <a href="https://dakshithak.github.io/">Portfolio</a>
 </p>
 
 ---
