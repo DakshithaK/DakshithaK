@@ -21,26 +21,6 @@ Previously @ **Indian Institute of Science** — built encryption layers for ADS
 
 ---
 
-### Impact at a glance
-
-| | |
-|---|---|
-| **$48K+** annual infra savings | Reduced Kubernetes costs by 23% through resource optimisation |
-| **~67% faster MTTR** | Cut container tracking incident root-cause time from ~30 min to under 10 min |
-| **300K+ message backlog** resolved | Diagnosed and fixed a production memory leak in 2.5 hours — zero data loss 🏆 SPOT Award |
-| **95% unit test coverage** | Refactored 10+ microservices, resolved 300+ SonarQube code smells |
-
----
-
-### Things I've shipped
-
-- Built a **RAG developer assistant** (OpenAI LLM + ChromaDB) indexing 50K+ lines of legacy code to cut onboarding ramp-up time
-- Wrote **10+ investigation slash commands** automating the full SNOW-ticket → RCA pipeline across 17 production databases
-- Built a **location data enrichment service** — 2M+ daily records, 15% less data loss, real-time tracking for 10K+ shipments
-- Developed a **tracking dashboard** with 10+ REST APIs that eliminated 90% of direct DB queries and cut debugging time by 60%
-- Onboarded Gnosis and OpenTech data providers, enabling 10K+ daily shipment updates
-
----
 
 ### Tech stack
 
@@ -56,16 +36,6 @@ Previously @ **Indian Institute of Science** — built encryption layers for ADS
 **Observability & Tooling**
 `Grafana` `SonarQube` `Git` `Postman` `JUnit` `Mockito`
 
----
-
-### Projects
-
-#### Contractor Performance Scoring Engine &nbsp;·&nbsp; [GitHub](#)
-> Java · Spring Boot 3 · FastAPI · Kafka · Redis · Claude Vision API · React · Docker · K8s
-
-Engineered a 6-service AI contractor-risk platform. Integrated Claude Vision API into a Kafka-driven weighted scoring pipeline with Redis-cached verdicts (Hire / Caution / Avoid). Achieves sub-12ms p95 at 3,000+ req/s under concurrent load.
-
----
 
 ### When I'm not on-call
 
