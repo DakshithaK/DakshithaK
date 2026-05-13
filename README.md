@@ -1,61 +1,90 @@
-<h1 align="center">👋 Hi, I'm Dakshitha!</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Software+Engineer+%F0%9F%92%BB;Backend+Ninja+%E2%9C%A8;Spring+Boot+%7C+Kafka+%7C+React+Explorer;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
-
-Software Engineer | B.E @ RVCE
-📍 Bangalore, INDIA | ✉️ dakshithakrishnagowda@gmail.com |
-
-### About Me
-
-I’m a Software Engineer @ [Maersk](https://www.maersk.com/about) 🌊 and am based in Bangalore, India, passionate about building scalable systems, optimizing infrastructure, and leveraging AI to solve real-world problems.
-Previously at:
-- 🔬 **Indian Institute of Science** — Built multi-layered security systems for safeguarding flight data.
-
-When I'm not reducing Kafka lag or fighting code smells 🧹, I’m probably:
-- 💡 Playing around with side projects
-- 📸 Travelling 
-- 🎮 Binge watching
-
----
-
-### 🚀 Tech Stack
-
-- **Languages:** `Java`, `Python`, `JavaScript`, `C`
-- **Frameworks & Tools:** `Spring Boot`, `FastAPI`, `React.js`, `Apache Kafka`, `Kubernetes`
-- **Databases:** `PostgreSQL`, `MySQL`
-- **DevOps & Infra:** `Grafana`, `Git`, `IntelliJ`, `Docker`
-
----
-
-### 🌍 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dakshitha-k)  
-
-
-📬 dakshithakrishnagowda@gmail.com
-
-
-
-<!--### 📈 GitHub Stats
+<h1 align="center">Dakshitha K</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DakshithaK&show_icons=true&theme=radical" alt="Dakshitha's GitHub stats" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&center=true&vCenter=true&width=520&lines=Full-stack+Engineer+%40+Maersk+%F0%9F%8C%8A;Distributed+Systems+%7C+AI-native+Workflows;2M%2B+daily+records+in+production;Customer+problems%2C+solved+at+scale" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DakshithaK&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  📍 Bangalore, India &nbsp;·&nbsp;
+  ✉️ <a href="mailto:dakshithakrishnagowda@gmail.com">dakshithakrishnagowda@gmail.com</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/dakshitha-k">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://github.com/DakshithaK">GitHub</a>
 </p>
 
-### 💡 Fun Fact
+---
 
-I once resolved a critical on-call issue in < 2 hours and got a SPOT award 🏆.  
-Sometimes all you need is coffee ☕ + a good stack trace 🧠.
+Full-stack engineer with 2+ years building distributed systems at scale.
+I ship features faster through AI-native workflows and care deeply about one thing: **customer problems, solved in production**.
 
--->
+Currently @ **A.P. Møller – Maersk**, working on container tracking infrastructure that processes 2M+ records daily.
+Previously @ **Indian Institute of Science** — built encryption layers for ADS-B aviation data.
 
+---
 
+### Impact at a glance
 
-<!--###_“Code is like humor. When you have to explain it, it’s bad.” — Cory House_
-![image](https://github.com/user-attachments/assets/a9a43c82-9e8b-4470-97a5-8aa7bf844ae8)
--->
+| | |
+|---|---|
+| **$48K+** annual infra savings | Reduced Kubernetes costs by 23% through resource optimisation |
+| **~67% faster MTTR** | Cut container tracking incident root-cause time from ~30 min to under 10 min |
+| **300K+ message backlog** resolved | Diagnosed and fixed a production memory leak in 2.5 hours — zero data loss 🏆 SPOT Award |
+| **95% unit test coverage** | Refactored 10+ microservices, resolved 300+ SonarQube code smells |
 
+---
+
+### Things I've shipped
+
+- Built a **RAG developer assistant** (OpenAI LLM + ChromaDB) indexing 50K+ lines of legacy code to cut onboarding ramp-up time
+- Wrote **10+ investigation slash commands** automating the full SNOW-ticket → RCA pipeline across 17 production databases
+- Built a **location data enrichment service** — 2M+ daily records, 15% less data loss, real-time tracking for 10K+ shipments
+- Developed a **tracking dashboard** with 10+ REST APIs that eliminated 90% of direct DB queries and cut debugging time by 60%
+- Onboarded Gnosis and OpenTech data providers, enabling 10K+ daily shipment updates
+
+---
+
+### Tech stack
+
+**Languages & Frameworks**
+`Java` `Python` `Spring Boot` `FastAPI` `React.js`
+
+**Data & Infrastructure**
+`PostgreSQL` `MySQL` `Redis` `Apache Kafka` `Kubernetes` `Docker`
+
+**AI / ML**
+`LLM Integration` `RAG` `Agentic Systems` `MCP` `Context Engineering` `Fine-tuning`
+
+**Observability & Tooling**
+`Grafana` `SonarQube` `Git` `Postman` `JUnit` `Mockito`
+
+---
+
+### Projects
+
+#### Contractor Performance Scoring Engine &nbsp;·&nbsp; [GitHub](#)
+> Java · Spring Boot 3 · FastAPI · Kafka · Redis · Claude Vision API · React · Docker · K8s
+
+Engineered a 6-service AI contractor-risk platform. Integrated Claude Vision API into a Kafka-driven weighted scoring pipeline with Redis-cached verdicts (Hire / Caution / Avoid). Achieves sub-12ms p95 at 3,000+ req/s under concurrent load.
+
+---
+
+### When I'm not on-call
+
+```js
+const dakshitha = {
+  hobbies:          ["side projects", "travelling", "binge watching"],
+  currentlyBuilding: "something AI-native",
+  obsessedWith:     "customer problems solved at scale"
+}
+```
+
+---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/dakshitha-k">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:dakshithakrishnagowda@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
