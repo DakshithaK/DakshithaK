@@ -66,11 +66,11 @@ Currently working on container tracking infrastructure that processes **2M+ dail
 **🌊 A.P. Møller – Maersk** · Associate Software Engineer · *Oct 2024 – Present*
 > Container tracking infra, data platform reliability, AI-native developer tooling
 
+**🌊 A.P. Møller – Maersk** · Software Engineer Intern · *Mar – Sep 2024*
+> Tracking dashboard, microservice refactors, 95% test coverage 
+
 **🔬 Indian Institute of Science** · Research Assistant Intern · *Sep – Feb 2024*
 > AES encryption layer for ADS-B aviation data
-
-**🌊 A.P. Møller – Maersk** · Software Engineer Intern · *Mar – Sep 2024*
-> Tracking dashboard, microservice refactors, 95% test coverage
 
 ---
 
