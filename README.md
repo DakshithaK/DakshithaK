@@ -24,18 +24,6 @@ Currently working on container tracking infrastructure that processes **2M+ dail
 
 ---
 
-## 🏆 Career highlights
-
-| | |
-|---|---|
-| 💰 **$48K annual savings** | Cut Kubernetes infra cost by 23% through resource over-provisioning analysis |
-| 🚨 **SPOT Award** | Resolved a production memory leak with 300K+ message backlog in 2.5 hrs, zero data loss |
-| ⚡ **67% MTTR reduction** | Built 10+ triage slash commands, cutting incident resolution from ~30 min → under 10 min |
-| 🤖 **RAG dev assistant** | OpenAI LLM + ChromaDB over 50K+ lines of legacy code — cut new-engineer ramp-up time significantly |
-| 🛡️ **Aviation security** | AES encryption layer for ADS-B data at IISc, <5% overhead across 50+ validation scenarios |
-| 🧹 **95% test coverage** | Refactored 10+ microservices, resolved 300+ SonarQube smells |
-
----
 
 ## 🛠️ Tech stack
 
